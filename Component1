@@ -1,4 +1,9 @@
 This is Component1.....
 we added this
 I made these changes in developer branch
+<<<<<<< HEAD
 From local repositary
+=======
+Developer from remote git
+From remote Repositery
+>>>>>>> d9be958699b32b5a810bbee34228c73ec39aa40f
